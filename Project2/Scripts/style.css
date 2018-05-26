@@ -1,0 +1,14 @@
+﻿
+.err{
+    border-color: red;
+}
+
+#align-center {
+    height: 50px;
+    left: 50%;
+    margin-left: -300px;    /* Half of width */
+    margin-top: -25px;      /* Half of height */
+    position:center;
+    top: 25%;
+    width: 600px;
+}
